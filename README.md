@@ -3,4 +3,4 @@
 - Jordi Antonio Vázquez López
 - Dayron Torres Yegua
 - Daniel
-- Mario
+- Mario Montes Bermúdez
