@@ -1,0 +1,24 @@
+graph LR
+    A[Hotel El Salao]
+
+    %% División principal
+    A --> B[IT - Tecnologías de la Información]
+    A --> C[OT - Tecnologías Operativas]
+
+    %% Detalles de IT
+    B --> B1[Sistemas de Reservas Online]
+    B --> B2[Gestión de datos de clientes]
+    B --> B3[Marketing Digital]
+    B --> B4[Infraestructura de Red]
+    B --> B5[Sistemas de Comunicación]
+    B --> B6[Sistema de Gestión Hotelera]
+    B --> B7[Plataforma de Análisis de Datos]
+
+    %% Detalles de OT
+    C --> C1[Sensores]
+    C --> C2[Sistemas de Encuestas Digitales]
+    C --> C3[Sistemas de Seguridad Física]
+    C --> C4[Sistemas de Control Energético]
+    C --> C5[Gestión del Restaurante y Bar]
+    C --> C6[Gestión de Energía y Climatización]
+    C --> C7[Monitoreo del Consumo de Agua]
