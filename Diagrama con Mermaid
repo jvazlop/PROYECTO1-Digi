@@ -22,3 +22,11 @@ graph LR
     C --> C5[Gestión del Restaurante y Bar]
     C --> C6[Gestión de Energía y Climatización]
     C --> C7[Monitoreo del Consumo de Agua]
+
+    
+
+
+
+
+
+
