@@ -8,4 +8,6 @@
 
 ![diagrama con Mermaid](/PROYECTO1-Digi/Img_apoyo/diagrama_final_02.png)
 
+.
+
 
