@@ -6,8 +6,7 @@
     mejoras con IA 
 
 
-![diagrama con Mermaid](/PROYECTO1-Digi/Img_apoyo/diagrama_final_02.png)
+![diragrama final](/PROYECTO1-Digi/Img_apoyo/diagrama_final_02.png)
 
-.
 
 
